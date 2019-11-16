@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <div class="title">Hello Laravel! - by Summer</div>
+                    <div class="title">Hello Laravel! - by Gavin.wang</div>
                 </div>
 
             </div>
